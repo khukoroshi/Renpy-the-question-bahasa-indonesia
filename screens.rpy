@@ -4,11 +4,11 @@ translate indonesian strings:
 
     # game/screens.rpy:247
     old "Back"
-    new "Back"
+    new "Kembali"
 
     # game/screens.rpy:248
     old "History"
-    new "History"
+    new "Histori"
 
     # game/screens.rpy:249
     old "Skip"
@@ -36,11 +36,11 @@ translate indonesian strings:
 
     # game/screens.rpy:295
     old "Start"
-    new "Start"
+    new "Mulai"
 
     # game/screens.rpy:303
     old "Load"
-    new "Load"
+    new "Memuat"
 
     # game/screens.rpy:305
     old "Preferences"
@@ -52,19 +52,19 @@ translate indonesian strings:
 
     # game/screens.rpy:313
     old "Main Menu"
-    new "Main Menu"
+    new "Menu Utama"
 
     # game/screens.rpy:315
     old "About"
-    new "About"
+    new "Tentang"
 
     # game/screens.rpy:320
     old "Help"
-    new "Help"
+    new "Bantuan"
 
     # game/screens.rpy:325
     old "Quit"
-    new "Quit"
+    new "Keluar"
 
     # game/screens.rpy:368
     old "Ren'Py 7+ Edition"
@@ -112,7 +112,7 @@ translate indonesian strings:
 
     # game/screens.rpy:577
     old "Music By"
-    new "Music By"
+    new "Music Oleh"
 
     # game/screens.rpy:578
     old "Alessio"
@@ -160,7 +160,7 @@ translate indonesian strings:
 
     # game/screens.rpy:679
     old "empty slot"
-    new "empty slot"
+    new "slot kosong"
 
     # game/screens.rpy:696
     old "<"
@@ -188,7 +188,7 @@ translate indonesian strings:
 
     # game/screens.rpy:774
     old "Fullscreen"
-    new "Fullscreen"
+    new "Full Layar"
 
     # game/screens.rpy:779
     old "Unseen Text"
@@ -200,11 +200,11 @@ translate indonesian strings:
 
     # game/screens.rpy:781
     old "Transitions"
-    new "Transitions"
+    new "Transisi"
 
     # game/screens.rpy:790
     old "Language"
-    new "Language"
+    new "Bahasa"
 
     # game/screens.rpy:802
     old " "
@@ -212,7 +212,7 @@ translate indonesian strings:
 
     # game/screens.rpy:821
     old "Text Speed"
-    new "Text Speed"
+    new "Kecepatan Text"
 
     # game/screens.rpy:825
     old "Auto-Forward Time"
@@ -220,11 +220,11 @@ translate indonesian strings:
 
     # game/screens.rpy:832
     old "Music Volume"
-    new "Music Volume"
+    new "Volume Musik"
 
     # game/screens.rpy:839
     old "Sound Volume"
-    new "Sound Volume"
+    new "Volume Suara"
 
     # game/screens.rpy:845
     old "Test"
@@ -232,11 +232,11 @@ translate indonesian strings:
 
     # game/screens.rpy:849
     old "Voice Volume"
-    new "Voice Volume"
+    new "Volume berbicara"
 
     # game/screens.rpy:860
     old "Mute All"
-    new "Mute All"
+    new "Bisukan semua"
 
     # game/screens.rpy:979
     old "The dialogue history is empty."
@@ -384,11 +384,11 @@ translate indonesian strings:
 
     # game/screens.rpy:1224
     old "Yes"
-    new "Yes"
+    new "Ya"
 
     # game/screens.rpy:1225
     old "No"
-    new "No"
+    new "Tidak"
 
     # game/screens.rpy:1271
     old "Skipping"

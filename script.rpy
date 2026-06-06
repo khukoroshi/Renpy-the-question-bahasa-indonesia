@@ -428,7 +428,7 @@ translate indonesian strings:
 
     # game/script.rpy:3
     old "Me"
-    new "Me"
+    new "Saya"
 
     # game/script.rpy:40
     old "As soon as she catches my eye, I decide..."
@@ -436,11 +436,11 @@ translate indonesian strings:
 
     # game/script.rpy:40
     old "To ask her right away."
-    new "To ask her right away."
+    new "Berbicara dengan dia sekarang juga."
 
     # game/script.rpy:40
     old "To ask her later."
-    new "To ask her later."
+    new "Berbicara dengan dia nanti."
 
     # game/script.rpy:97
     old "It's a videogame."

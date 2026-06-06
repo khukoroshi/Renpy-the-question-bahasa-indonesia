@@ -128,31 +128,31 @@ translate indonesian strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}Monday"
+    new "{#weekday}Senin"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}Tuesday"
+    new "{#weekday}Selasa"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}Wednesday"
+    new "{#weekday}Rabu"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}Thursday"
+    new "{#weekday}Kamis"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}Friday"
+    new "{#weekday}Jum'at"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}Saturday"
+    new "{#weekday}Sabtu"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday}Sunday"
+    new "{#weekday}Minggu"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
@@ -184,15 +184,15 @@ translate indonesian strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "{#month}January"
+    new "{#month}Januari"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new "{#month}February"
+    new "{#month}Febuari"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new "{#month}March"
+    new "{#month}Maret"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
@@ -200,19 +200,19 @@ translate indonesian strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "{#month}May"
+    new "{#month}Mei"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new "{#month}June"
+    new "{#month}Juni"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new "{#month}July"
+    new "{#month}Juli"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new "{#month}August"
+    new "{#month}Agustus"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
@@ -220,7 +220,7 @@ translate indonesian strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "{#month}October"
+    new "{#month}Oktober"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
@@ -228,7 +228,7 @@ translate indonesian strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new "{#month}December"
+    new "{#month}Desember"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
@@ -248,7 +248,7 @@ translate indonesian strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new "{#month_short}May"
+    new "{#month_short}Mei"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
@@ -268,7 +268,7 @@ translate indonesian strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short}Oct"
+    new "{#month_short}Okt"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
@@ -276,7 +276,7 @@ translate indonesian strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new "{#month_short}Dec"
+    new "{#month_short}Des"
 
     # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"
@@ -328,7 +328,7 @@ translate indonesian strings:
 
     # renpy/common/00action_other.rpy:416
     old "Language [text]"
-    new "Language [text]"
+    new "Bahasa [text]"
 
     # renpy/common/00action_other.rpy:781
     old "Open [text] directory."
@@ -432,7 +432,7 @@ translate indonesian strings:
 
     # renpy/common/00director.rpy:1812
     old "Transition:"
-    new "Transition:"
+    new "Transisi:"
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
@@ -456,11 +456,11 @@ translate indonesian strings:
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
-    new "Are you sure?"
+    new "Kamu Serius?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "Kamu benar-benar ingin menghapus data(save) ini?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
@@ -472,7 +472,7 @@ translate indonesian strings:
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "Kamu benar-benar ingin keluar?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
@@ -528,7 +528,7 @@ translate indonesian strings:
 
     # renpy/common/00preferences.rpy:310
     old "transitions"
-    new "transitions"
+    new "transisi"
 
     # renpy/common/00preferences.rpy:319
     old "skip transitions"
@@ -968,11 +968,11 @@ translate indonesian strings:
 
     # renpy/common/00updater.rpy:2082
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "Mendownload data game."
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "Game telah didownload."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
@@ -1200,7 +1200,7 @@ translate indonesian strings:
 
     # renpy/common/_errorhandling.rpym:774
     old "Quits the game."
-    new "Quits the game."
+    new "Keluar dari game."
 
     # renpy/common/_errorhandling.rpym:796
     old "Parsing the script failed."
